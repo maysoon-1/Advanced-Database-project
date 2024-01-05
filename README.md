@@ -13,7 +13,7 @@ arranging is to characterize the statement of purpose for the information base f
 
 ### The mission statement :
 characterizes the significant points of the information base framework.
-## Mission objective :
+### Mission objective :
 ought to distinguish a specific undertaking that the information base framework must help.
 
 ## System Definition
